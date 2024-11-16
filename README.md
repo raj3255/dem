@@ -1,3 +1,3 @@
 # dem
-this the second time i am doing this.
-author- this is me sunny
+this is the second time i am doing this.
+Author- this is me sunny
